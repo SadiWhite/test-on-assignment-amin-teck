@@ -1,5 +1,5 @@
-# INVENTORY MANAGEMENT SYSTEM
-Inventory Management System is a full-fledged GUI application for maintenance of inventory and to generate sales invoices with keeping records of every sales.
+# MANAGEMENT SYSTEM AMIN TECK ASSIGNMENT
+This Management System is a full-fledged GUI application for maintenance of inventory and to generate sales invoices with keeping records of every sales.
 Consists of following Pages:
 * Login
 * Sales
