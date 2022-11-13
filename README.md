@@ -50,10 +50,9 @@ Project is created with:
 ## Installation
 1. Download the project to your Device using one of the ways listed below
    1. git clone the project:
-git clone https://github.com/vishakhg98/Inventory-Management-System.git
-   1. Download Zip using : [Download](https://github.com/vishakhg98/Inventory-Management-System/archive/master.zip)
+
 	 
-1. (Optional) If want to use virtual environment:
+1. If want to use virtual environment:
 		
 		venv\Scripts\activate
 
@@ -78,13 +77,13 @@ Password : password
 
 
 ## Screenshots 📸
-![Login](https://github.com/vishakhg98/Inventory-Management-System/blob/master/Screenshots/Dark%20Mode/Login.png)
-![Main Menu](https://github.com/vishakhg98/Inventory-Management-System/blob/master/Screenshots/Dark%20Mode/Main%20Menu.png)
-![Sales](https://github.com/vishakhg98/Inventory-Management-System/blob/master/Screenshots/Dark%20Mode/Sales.png)
-![Inventory](https://github.com/vishakhg98/Inventory-Management-System/blob/master/Screenshots/Dark%20Mode/Inventory.png)
-![Extras](https://github.com/vishakhg98/Inventory-Management-System/blob/master/Screenshots/Dark%20Mode/Extras.png)
+![Login](https://github.com/SadiWhite/test-on-assignment-amin-teck/tree/master/Screenshots/Dark%20Mode/Login.png)
+![Main Menu](https://github.com/SadiWhite/test-on-assignment-amin-teck/blob/master/Screenshots/Dark%20Mode/Main%20Menu.png)
+![Sales](https://github.com/SadiWhite/test-on-assignment-amin-teck/blob/master/Screenshots/Dark%20Mode/Sales.png)
+![Inventory](https://github.com/SadiWhite/test-on-assignment-amin-teck/blob/master/Screenshots/Dark%20Mode/Inventory.png)
+![Extras](https://github.com/SadiWhite/test-on-assignment-amin-teck/blob/master/Screenshots/Dark%20Mode/Extras.png)
 
-for more screenshots visit [Screenshots](https://github.com/vishakhg98/Inventory-Management-System/tree/master/Screenshots) folder in the main branch.
+for more screenshots visit [Screenshots](https://github.com/SadiWhite/test-on-assignment-amin-teck/tree/master/Screenshots) folder in the main branch.
 
 
 ## Bugs
@@ -95,5 +94,3 @@ None, if found any bugs please open an issue.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## License
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
